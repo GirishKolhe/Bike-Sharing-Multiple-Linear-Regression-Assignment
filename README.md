@@ -76,4 +76,4 @@ A final model with following key predictors :
 - Upgrad Team and instructors
 
 ## Contact
-Created by [@GirishKolhe] - feel free to contact us!
+Created by [@GirishKolhe](https://github.com/GirishKolhe) - feel free to contact us!
